@@ -1,4 +1,5 @@
 # Leko Reader
+[![Downloads](https://img.shields.io/github/downloads/jnjnnjzch/leko-reader/total?style=flat-square&logo=github&label=Downloads)](https://github.com/jnjnnjzch/leko-reader/releases)
 
 欢迎使用 Leko Reader。
 
